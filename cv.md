@@ -54,6 +54,7 @@ Below is a sample code I wrote. This code is written in HTML:
 ## Courses and studying
 
 * Completed second course in Belarusian-Russian university.
+* [Latest project](https://github.com/AlexandraBahdanava/CurriculumVitae.git)
 *** 
 
 ## Languages 
