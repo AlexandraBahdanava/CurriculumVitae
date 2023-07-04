@@ -1,8 +1,7 @@
-# **Bahdanava Alexandra** ![image](/img/avatar.jpg "Avatar")
-
- 
+# **Bahdanava Alexandra**
+![image](/img/avatar.jpg "Avatar")
 ***  
-## Contact information:
+## Contact information
 
 * **Phone:** +375-25-954-81-98
 * **Email:** bahdanavaalexandra@gmail.com
@@ -32,7 +31,8 @@ I have skills in the following areas of software development:
 
 Below is a sample code I wrote. This code is written in HTML:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>HTML</title>
@@ -46,7 +46,8 @@ Below is a sample code I wrote. This code is written in HTML:
     <h1>Hello World!</h1>
     <p>This is start page</p>
 </body>
-</html>```
+</html>
+```
 
 ***
 
