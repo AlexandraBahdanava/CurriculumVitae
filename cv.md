@@ -1,16 +1,15 @@
 # **Bahdanava Alexandra** ![image](/img/avatar.jpg "Avatar")
-==================  
-***  
-### Contact information
-----------------------  
 
-**Phone:** +375-25-954-81-98
-**Email:** bahdanavaalexandra@gmail.com
-**Telegram:** @ale_bah
+ 
+***  
+## Contact information:
+
+* **Phone:** +375-25-954-81-98
+* **Email:** bahdanavaalexandra@gmail.com
+* **Telegram:** @ale_bah
 ***
 
 ## Briefly About Myself
-----------------------
 
 Hello! I am a student at the Belarusian-Russian University. I have been studying here for two years and I would like to share some brief information about myself. My main goal is to constantly grow and develop. I believe that learning and acquiring new knowledge are key elements for achieving success.
 
@@ -19,8 +18,7 @@ My priorities include striving for self-improvement and constantly enhancing my 
 I possess several strengths that help me achieve my goals. I have excellent analytical skills, which allow me to understand complex problems and find effective solutions. Additionally, I have strong communication abilities that enable me to communicate effectively and collaborate with others.
 ***
 
-### Skills ###
---------------------  
+## Skills
 
 I have skills in the following areas of software development:
 * T-SQL
@@ -30,12 +28,11 @@ I have skills in the following areas of software development:
 * C#
 ***
 
-Code example
---------------------  
+## Code example
 
 Below is a sample code I wrote. This code is written in HTML:
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
     <title>HTML</title>
@@ -49,19 +46,18 @@ Below is a sample code I wrote. This code is written in HTML:
     <h1>Hello World!</h1>
     <p>This is start page</p>
 </body>
-</html>
+</html>```
+
 ***
 
-### Courses and studying
---------------------   
+## Courses and studying
 
 * Completed second course in Belarusian-Russian university.
 *** 
 
-### Languages
---------------------  
+## Languages 
 
 1. Russian - Native
 2. Belarusian - Native
-3. Deutch - B1 Intermediate
+3. German - B1 Intermediate
 4. English - А1 Beginner
