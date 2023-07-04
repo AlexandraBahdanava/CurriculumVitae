@@ -5,18 +5,18 @@ phone: +375-25-954-81-98
 email: bahdanavaalexandra@gmail.com
 telegram: @ale_bah
 Briefly About Myself:
-Привет! Я являюсь студентом Белорусско-российского университета.Учусь здесь уде два года и хочу поделиться краткой информацией о себе. Моя основная цель - постоянно расти и развиваться. Я верю, что обучение и приобретение новых знаний являются ключевыми элементами для достижения успеха.
-Мои приоритеты включают стремление к самосовершенствованию и постоянное улучшение своих навыков. Я всегда открыта для новых возможностей и готова принять вызов, чтобы расширить свой кругозор и стать лучшей версией себя.
-У меня есть несколько сильных сторон, которые помогают мне в достижении своих целей. Я обладаю отличными аналитическими навыками, что помогает мне разбираться в сложных проблемах и находить эффективные решения. Кроме того, я обладаю коммуникативными способностями, которые позволяют мне эффективно общаться и сотрудничать с другими людьми.
+Hello! I am a student at the Belarusian-Russian University. I have been studying here for two years and I would like to share some brief information about myself. My main goal is to constantly grow and develop. I believe that learning and acquiring new knowledge are key elements for achieving success.
+My priorities include striving for self-improvement and constantly enhancing my skills. I am always open to new opportunities and ready to embrace challenges in order to broaden my horizons and become the best version of myself.
+I possess several strengths that help me achieve my goals. I have excellent analytical skills, which allow me to understand complex problems and find effective solutions. Additionally, I have strong communication abilities that enable me to communicate effectively and collaborate with others.
 Skills
-Я обладаю навыками в следующих областях разработки программного обеспечения:
+I have skills in the following areas of software development:
 - T-SQL
 - VBA Basics
 - HTML5, CSS3 Basics
 - JavaScript Basics
 - C#
 Code example
-Ниже можно ознакомиться с примером кода, написанным мной. Данный код написан на HTML:
+Below is a sample code I wrote. This code is written in HTML:
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +32,6 @@ Code example
     <p>This is start page</p>
 </body>
 </html>
-
 Courses and studying:
 Completed second course in Belarusian-Russian university
 Languages:
